@@ -19,3 +19,6 @@ window-width = 120
 window-height = 30
 
 macos-option-as-alt = false
+# Force a conservative TERM value for compatibility with legacy tools/hosts.
+# Docs: https://ghostty.org/docs/config/reference#term
+term = xterm
