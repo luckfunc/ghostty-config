@@ -1,0 +1,31 @@
+# Previous dark theme
+# background = #000000
+# foreground = #F4F4F4
+# cursor-color = #606060
+# selection-background = #525252
+# selection-foreground = #F4F4F4
+
+# Vitesse Dark-inspired theme
+background = #121212
+foreground = #dbd7ca
+cursor-color = #4d9375
+cursor-text = #121212
+selection-background = #4d9375
+selection-foreground = #121212
+
+palette = 0=#181818
+palette = 1=#cb7676
+palette = 2=#4d9375
+palette = 3=#b8a965
+palette = 4=#959da5
+palette = 5=#c98a7d
+palette = 6=#4c9a91
+palette = 7=#dbd7ca
+palette = 8=#666666
+palette = 9=#cb7676
+palette = 10=#4d9375
+palette = 11=#b8a965
+palette = 12=#959da5
+palette = 13=#c98a7d
+palette = 14=#758575
+palette = 15=#dbd7ca

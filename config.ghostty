@@ -1,8 +1,9 @@
 # Synced from macOS Terminal.app default "Pro" profile.
 # Terminal stores a semantic system font here; Ghostty uses Menlo as
 # the closest concrete fallback that is locally available.
-font-family = Maple Mono NF CN
-# font-family = Berkeley Mono
+# font-family = Menlo
+# font-family = Maple Mono NF CN
+font-family = Berkeley Mono
 font-size = 14
 adjust-cursor-thickness = 1
 
